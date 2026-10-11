@@ -1,0 +1,13 @@
+{
+ "R1": 4.022803,
+ "R2": 6.229903364964366,
+ "Rconv": 1.7128126744735903,
+ "Cc": 10.305737,
+ "Cm": 824.187344,
+ "Ch": 67.94356586630313,
+ "phi": 0.302829,
+ "td": 0.894863,
+ "kP": 0.12,
+ "gam": 0.0,
+ "note": "Reference virtual plant: three-node network (Chap. 4, Table 4.2). Units: K/W, J/K, W/count, s."
+}
