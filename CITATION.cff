@@ -1,0 +1,32 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite it as below."
+title: "Fractional Thermal Control in Embedded Systems: book repository"
+abstract: >-
+  Companion repository of the book "Fractional Thermal Control in Embedded
+  Systems: Build, Measure and Regulate a Low-Cost Thermoelectric Experiment"
+  (Springer Nature). Reference firmware, virtual plant, digital-twin monitor,
+  build-step prompts and figure scripts for a low-cost Peltier experiment:
+  instrumentation, PID/FOPID control, adaptive supervision, state observer and
+  dew-point condensation.
+type: software
+authors:
+  - family-names: "Ferrer Pareja"
+    given-names: "Miguel F."
+    orcid: "https://orcid.org/0009-0000-7518-3583"
+    affiliation: "University of Las Palmas de Gran Canaria"
+version: "1.0.0"
+date-released: "2026-10-11"
+license:
+  - MIT
+  - CC-BY-4.0
+keywords:
+  - fractional-order control
+  - FOPID
+  - Peltier
+  - thermoelectric cooler
+  - instrumentation
+  - monitoring
+  - digital twin
+  - state observer
+  - dew point
+  - Arduino
